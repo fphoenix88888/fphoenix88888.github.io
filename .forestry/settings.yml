@@ -7,8 +7,6 @@ sections:
 - type: document
   path: about
   label: Aout
-  match: "**/*"
-  read_only: false
 - type: jekyll-pages
   label: Pages
   create: all
